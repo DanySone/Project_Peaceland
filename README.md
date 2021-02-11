@@ -66,6 +66,6 @@ deal with the drone’s data. Peaceland asks you for advice to design an archite
 them to create a product they could sell to different police forces.
 It's up to you to report and recommend the right architecture.
 Based on the preliminary question your solution is very likely to include :
-● at least one distributed storage
-● at least one distributed stream
-● at least two stream consumer
+- at least one distributed storage
+- at least one distributed stream
+- at least two stream consumer
