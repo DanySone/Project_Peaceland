@@ -24,11 +24,11 @@ This program must
 ### Drone description
 Each peacewatcher sends a report every minute.
 One report contains
-● peacewatcher id
-● peacewatcher current location (latitude, longitude)
-● name of surrounding citizen (identify with facial recognition) with their
+- peacewatcher id
+- peacewatcher current location (latitude, longitude)
+- name of surrounding citizen (identify with facial recognition) with their
 computed «peacescore»
-● words heard by the peacewatcher in its surrounding
+- words heard by the peacewatcher in its surrounding
 ### Alert
 When a citizen peacescore is bad your program must trigger an alert with
 location of the peacewatcher and the name of the agitated citizen.
