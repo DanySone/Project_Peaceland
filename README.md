@@ -2,9 +2,6 @@
 
 Group members : Jérémy TANG, Philippe LAO, Dany SONETHAVY
 
-Situation
-Client
-
 ## Situation
 ### Client
 Peaceland is a country that takes great pride in its effort to bring peace,
